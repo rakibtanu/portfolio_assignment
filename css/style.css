@@ -27,17 +27,18 @@ section{
     color: rgba(54, 57, 88, 1);
 }
 .about_me span{
-    color: #5453D8;
+    color: #FF1F76;
     
 }
 .about_me p{
     padding-bottom: 60px;
     padding-top: 30px;
+    line-height: 25px;
 }
 .button{
     text-decoration: none;
     padding: 20px 50px;
-    background-color: #5453D8;
+    background-color: #FF1F76;
     border-radius: 7px;
     color: white;
    
@@ -58,7 +59,7 @@ section{
     padding-bottom: 80px;
 }
 .latest_header span{
-    color: #5453D8;
+    color: #FF1F76;
 }
 .projects{
     width: 25%;
@@ -138,5 +139,32 @@ section{
     padding-top: 20px;
     padding-bottom: 80px;
     padding-right: 10px;
+}
+.contact_me_heading_h3{
+    text-align: center;
+    font-size: 40px;
+    color: rgba(54, 57, 88, 1);
+    padding-bottom: 100px;
+}
+.contact_list{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    height: 200px;
+}
+.way{
+    float: left;
+    width: 25%;
+    margin-left: 6%;
+}
+.way i{
+    font-size: 32px;
+    padding-bottom: 20px;
+    color: rgba(54, 57, 88, 1);
+}
+.way h6{
+    font-size: 24px;
+    color: rgba(54, 57, 88, 1);
+    padding-bottom: 20px;
 }
 
