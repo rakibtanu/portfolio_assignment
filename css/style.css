@@ -140,17 +140,12 @@ section{
     padding-bottom: 80px;
     padding-right: 10px;
 }
-.contact_me_heading_h3{
-    text-align: center;
-    font-size: 40px;
-    color: rgba(54, 57, 88, 1);
-    padding-bottom: 100px;
-}
+
 .contact_list{
     width: 80%;
     text-align: center;
     margin: auto;
-    height: 200px;
+    height: 150px;
 }
 .way{
     float: left;
@@ -161,10 +156,12 @@ section{
     font-size: 32px;
     padding-bottom: 20px;
     color: rgba(54, 57, 88, 1);
+    padding-top: 20px;
 }
 .way h6{
     font-size: 24px;
     color: rgba(54, 57, 88, 1);
     padding-bottom: 20px;
+    
 }
 
