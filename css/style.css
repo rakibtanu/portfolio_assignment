@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+}
+section{
+    padding: 0 5% 0 5%;
+    margin-top: 50px;
+    height: 500px;
+    
+}
+.about_me{
+    width: 50%;
+    
+    float: left;
+}
+.about_me img{
+    width: 500px;
+    height: 420px;
+    
+    
+}
+.about_me h1{
+    font-size: 70px;
+    color: rgba(54, 57, 88, 1);
+}
+.about_me span{
+    color: #5453D8;
+    
+}
+.about_me p{
+    padding-bottom: 60px;
+    padding-top: 30px;
+}
+.button{
+    text-decoration: none;
+    padding: 20px 50px;
+    background-color: #5453D8;
+    border-radius: 7px;
+    color: white;
+   
+}
+.about_me.about_me_2nd_section h1{
+    color: rgba(54, 57, 88, 1) !important;
+    font-size: 40px;
+}
+.section_bg{
+    background-color: #F8F9FC;
+    padding-bottom: 150px;
+}
+.latest_header{
+    text-align: center;
+    color: rgba(54, 57, 88, 1);
+    font-size: 40px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.latest_header span{
+    color: #5453D8;
+}
+.projects{
+    width: 25%;
+    margin-left: 3.33%;
+    float: left;
+    background-color: white;
+    box-shadow: 5px 5px 20px grey;
+    padding: 20px;
+    border-radius: 10px;
+}
+.projects img{
+    width: 100%;  
+}
+.projects h3{
+    padding-top: 20px;
+    color: rgba(54, 57, 88, 1);
+    padding-bottom: 20px;
+}
+.projects p{
+    color: rgba(108, 108, 108, 1);
+    padding-bottom: 15px;
+}
+.inquery{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.box1{
+    width: 800px;
+    background-color: rgba(255, 131, 103, 1);
+    height: 200px;
+    margin: auto;
+    border-radius: 30px;
+}
+.box1{
+  background: url(../images/bg1.png);
+   background-size: cover;
+}
+.box1 h1{
+    float: left;
+    padding-top: 60px;
+    padding-left: 70px;
+    font-size: 60px;
+    color: white;
+    
+}
+.box1 a{
+    float: right;
+    margin-top: 70px;
+    margin-right: 70px;
+    
+}
+.contact{
+    text-align: center;
+}
+
+.box2 h3{
+    font-size: 24px;
+    font-family: sans-serif;
+    color: #696871;
+    font-weight: 100;
+    margin: 11px 0px;
+    text-align: center;
+}
+.box2 a{
+    text-decoration: none;
+    color: #363958;
+    font-family: sans-serif;
+    font-size: 28px;
+    text-align: center;
+    
+}
+
+.box3 a img{
+    height: 45px;
+    width: 45px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    padding-right: 10px;
+}
+
